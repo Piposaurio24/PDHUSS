@@ -8,9 +8,7 @@ Research project developed for the **Programa de Honor 2025** (Vicerrectoría de
 - Agustín Tardones-Pezo, Civil Engineering, Facultad de Ingeniería, Tres Pascualas
 - Lien Rodríguez-López, Unidad Académica
 
-<!-- Add your Colab badge here, e.g.:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
--->
+
 
 ## Overview
 
